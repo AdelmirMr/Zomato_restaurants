@@ -167,7 +167,7 @@ df1 = clean_code(df)
 # ==============================
 
 st.header('Fome Zero')
-st.markdown('#### O melhor lugar para encontrar seu mais novo restaurante vavorito!')
+st.markdown('#### O melhor lugar para encontrar seu mais novo restaurante favorito!')
 st.markdown('##### Temos as seguintes marcas dentro da nossa plataforma:')
 
 
