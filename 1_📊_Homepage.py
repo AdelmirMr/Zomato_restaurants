@@ -13,7 +13,7 @@ import numpy as np
 import folium
 from folium.plugins import MarkerCluster
 from PIL import Image
-#from streamlit_folium import folium_static
+from streamlit_folium import folium_static
 import plotly.graph_objects as go
 
 st.set_page_config(
