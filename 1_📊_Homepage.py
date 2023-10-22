@@ -166,7 +166,7 @@ df1 = clean_code(df)
 # Barra lateral Filtros
 # ==============================
 
-st.header('Fome Zero')
+st.header('Zomato Restaurants')
 st.markdown('#### O melhor lugar para encontrar seu mais novo restaurante favorito!')
 st.markdown('##### Temos as seguintes marcas dentro da nossa plataforma:')
 
